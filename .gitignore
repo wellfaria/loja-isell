@@ -1,0 +1,10 @@
+# Ignorar pastas temporárias do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.tmp
